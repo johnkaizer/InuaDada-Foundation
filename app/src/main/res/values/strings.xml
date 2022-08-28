@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">InuaDada Faundation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- T -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //On-Boarding screen details
+    <string name="desc1">A movement that keeps growing because the world keeps believing in us and our story. A Foundation envisions a global community that empowers, upholds the dignity and protects the rights of every girl child and extends that to her caregivers and community.</string>
+    <string name="heading1">Amplify. Accelerate. Act</string>
+    <string name="desc2">‘My First Time’ is Inua Dada’s core Menstrual Health Management and Advocacy Program, which uses storytelling to debunk Menstrual Health myths, strengthen awareness on Reproductive Health and Rights.</string>
+    <string name="heading2">My First Time</string>
+    <string name="desc3">The strength of Inua Dada Foundation is on advocacy through various social media channels and mainstream media, where we bring all our work to life by inviting the public to engage on key social justice issues as well as carrying out campaigns aimed at amplifying Gender Equality discourse.</string>
+    <string name="heading3">Media &amp; Advocacy</string>
+    <string name="desc4">The 2021 Generation Equality Forum was a major global inflection point for gender equality. This landmark effort brought together governments, corporations and change makers from around the world to define and announce ambitious investments and policies.</string>
+    <string name="heading4">Generation Equality Forum</string>
+    <string name="header">The Inua Dada Foundation </string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="pass">password</string>
+    <string name="don_t_have">don\'t have an account?</string>
+    <string name="Register">Register</string>
+    <string name="already_registered">already registered?</string>
+    <string name="username">username</string>
+    <string name="registration">Registration</string>
+    <string name="phone">phone</string>
+    <string name="singin">SignIn</string>
+</resources>
