@@ -32,4 +32,10 @@
     <string name="registration">Registration</string>
     <string name="phone">phone</string>
     <string name="singin">SignIn</string>
+    <string name="search_here">Search here</string>
+    <string name="date">SEPTEMBER 3, 2022</string>
+    <string name="head">Inua Dada Foundation Rolls Out Advocacy Programme</string>
+    <string name="what_s_new">WHAT\'S NEW?</string>
+    <string name="news">Read Our Latest News</string>
+    <string name="programs">Programs</string>
 </resources>

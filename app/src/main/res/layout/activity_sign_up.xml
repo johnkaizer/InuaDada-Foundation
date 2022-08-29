@@ -143,10 +143,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
         android:layout_marginTop="32dp"
+        android:onClick="sigin"
         android:text="@string/singin"
         android:textAlignment="center"
-        android:onClick="sigin"
         android:textColor="@color/pink"
         android:textSize="20sp"
         android:textStyle="bold"
