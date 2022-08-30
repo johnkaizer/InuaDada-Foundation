@@ -4,9 +4,9 @@ public class WhatsNewModel {
     String date;
     int image;
     String heading;
-    String description;
+    int description;
 
-    public WhatsNewModel(String date, int image, String heading, String description) {
+    public WhatsNewModel(String date, int image, String heading, int description) {
         this.date = date;
         this.image = image;
         this.heading = heading;
@@ -37,11 +37,11 @@ public class WhatsNewModel {
         this.heading = heading;
     }
 
-    public String getDescription() {
+    public int getDescription() {
         return description;
     }
 
-    public void setDescription(String description) {
+    public void setDescription(int description) {
         this.description = description;
     }
 }

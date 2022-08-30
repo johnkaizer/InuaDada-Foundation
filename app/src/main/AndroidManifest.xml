@@ -14,13 +14,16 @@
         android:theme="@style/Theme.InuaDadaFaundation"
         tools:targetApi="31">
         <activity
+            android:name=".Activities.WhatsNewDetail"
+            android:exported="false" />
+        <activity
             android:name=".Activities.SignIn"
             android:exported="false"
-            android:theme="@style/Theme.InuaDadaFaundation.NoActionBar"/>
+            android:theme="@style/Theme.InuaDadaFaundation.NoActionBar" />
         <activity
             android:name=".Activities.SignUp"
             android:exported="false"
-            android:theme="@style/Theme.InuaDadaFaundation.NoActionBar"/>
+            android:theme="@style/Theme.InuaDadaFaundation.NoActionBar" />
         <activity
             android:name=".Activities.OnboardingScreen"
             android:exported="true"
@@ -35,8 +38,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.InuaDadaFaundation.NoActionBar">
-        </activity>
+            android:theme="@style/Theme.InuaDadaFaundation.NoActionBar"></activity>
     </application>
 
 </manifest>

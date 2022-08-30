@@ -1,6 +1,8 @@
 package com.project.inuadadafaundation.Adapters;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,6 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.project.inuadadafaundation.Models.WhatsNewModel;
 import com.project.inuadadafaundation.R;
+import com.project.inuadadafaundation.Activities.WhatsNewDetail;
 import com.project.inuadadafaundation.ui.home.HomeFragment;
 
 import java.util.ArrayList;
@@ -32,11 +35,26 @@ public class WhatsNewAdapter extends RecyclerView.Adapter<WhatsNewAdapter.ViewHo
     }
 
     @Override
-    public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull ViewHolder holder, @SuppressLint("RecyclerView") int position) {
 
         holder.image.setImageResource(list.get(position).getImage());
         holder.date.setText(list.get(position).getDate());
         holder.header.setText(list.get(position).getHeading());
+
+        holder.itemView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(context, WhatsNewDetail.class);
+                intent.putExtra("image",list.get(position).getImage());
+                intent.putExtra("date",list.get(position).getDate());
+                intent.putExtra("heading",list.get(position).getHeading());
+                intent.putExtra("description",list.get(position).getDescription());
+                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                context.startActivity(intent);
+
+
+            }
+        });
     }
 
     @Override

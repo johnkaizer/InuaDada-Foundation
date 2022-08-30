@@ -3,9 +3,9 @@ package com.project.inuadadafaundation.Models;
 public class ProgramsModel {
     int image;
     String  header;
-    String information;
+    int information;
 
-    public ProgramsModel(int image, String header, String information) {
+    public ProgramsModel(int image, String header, int information) {
         this.image = image;
         this.header = header;
         this.information = information;
@@ -27,11 +27,11 @@ public class ProgramsModel {
         this.header = header;
     }
 
-    public String getInformation() {
+    public int getInformation() {
         return information;
     }
 
-    public void setInformation(String information) {
+    public void setInformation(int information) {
         this.information = information;
     }
 }

@@ -38,4 +38,26 @@
     <string name="what_s_new">WHAT\'S NEW?</string>
     <string name="news">Read Our Latest News</string>
     <string name="programs">Programs</string>
+
+    //Whats new CardViews Description data
+
+    <string name="WhatsNew1">The Inua Dada Centre was launched on October 8th, as a step towards progressing the rights of the community in Korogocho, by provided access to Menstrual Products and Information, Psychosocial Support for survivors of GBV and an upcoming Economic Empowerment Program. We invite stakeholders to walk with us as we seek to uphold the rights and dignity of communities, one girl at a time.</string>
+
+    <string name="WhatsNew2">The Inua Dada Foundation has kicked off a youth advocacy program to amplify their voices and equip them with skills to create positive change. Dubbed the #InuaDadaVoices, the initiative seeks to help the youth learn how to tackle challenges they see in their communities. “As Inua Dada we seek to support their efforts to address their concerns, especially on matters of Gender Based Violence (GBV). Our advocacy comes at a special time. 26 years since The Beijing Declaration and Platform for Action of 1995- the most visionary agenda for the empowerment of women and girls, everywhere,” said Janet Mbugua, the founder of Inua Dada.</string>
+
+    <string name="WhatsNew3">Today, Generation Equality Forum starts in Paris, France. This is a historical women conference, in this decade, after the 1995 Fourth World Conference on Women held in Beijing, China that birthed the Beijing Declaration and the Platform for Action.\n\nThe declaration is a women’s empowerment roadmap outlining 12 strategic areas of focus including ending poverty among women and violence against them; ensuring their inclusion in leadership and decision making, promoting their human rights and safeguarding their rights in the media as well as fostering girl-child development.The France forum, attended by heads of State and government, representatives from international organisations, civil society, the private sector and youth organisations, the leaders and feminists will be reflecting on progress made 26 years later, and conclude with concrete actions going forward.</string>
+
+    //Programs Information
+    <string name="Program1">The 2021 Generation Equality Forum was a major global inflection point for gender equality. This landmark effort brought together governments, corporations and change makers from around the world to define and announce ambitious investments and policies. These diverse stakeholders have embarked on a 5-year journey to accelerate equality, leadership and opportunity for women and girls worldwide. This work will culminate in 2026. (https://forum.generationequality.org)\n\nInua Dada Foundation was selected to amplify the Generation Equality Forum. We formed our youth-lead program to lead in this amplification, called #InuaDadaVoices. This is a Youth Advocates Program that trains young people on advocacy on social justice issues with a focus on Gender Based Violence, Gender Equality Amplification, Policy Dialogues particularly on policies designed to protect women and girls, Male Allyship and Leadership.</string>
+
+    <string name="Program2">For many young girls in Kenya, properly managing a menstrual cycle with adequate sanitary products is a luxury. Roughly one million Kenyan girls miss out on education each month because they are unable to afford menstrual products. Girls and women are unable to work or participate in education for days at a time, placing them at a disadvantage in comparison to their male peers. Some girls even resort to sharing menstrual products in a desperate attempt to find a solution to period poverty in Kenya. Though access to menstrual products is a multi-faceted issue in Kenya, as Inua Dada we are making it possible for girls to properly manage their periods and continue with life as usual.\n\nResearch shows that 65% of Kenyan women and girls are unable to afford basic sanitary pads. As a consequence, girls often rely on the men in their lives for period products and some girls engage in transactional sex in order to secure sanitary products, perpetuating a patriarchal cycle of reliance and exploitation.\n‘My First Time’ is Inua Dada’s core Menstrual Health Management and Advocacy Program, which uses storytelling to debunk Menstrual Health myths, strengthen awareness on Reproductive Health and Rights, produce Sanitary Pads in collaboration with the Pad Project and distribute sanitary pads to girls and women in need. Inspired by Inua Dada Founder’s book ‘My First Time’, an advocacy tool for raising awareness and breaking down stigma and taboos around Menstruation and Menstrual Health and keeping policy makers accountable.</string>
+
+    <string name="Program3">Programs</string>
+
+
+    <string name="Program4">Programs</string>
+    <string name="user_name">Inua Dada</string>
+    <string name="mail">inuadada@gmail.com</string>
+
+
 </resources>

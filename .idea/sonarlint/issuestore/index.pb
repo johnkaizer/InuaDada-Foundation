@@ -20,18 +20,10 @@ A
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 Ñ
 Tapp/src/androidTest/java/com/project/inuadadafaundation/ExampleInstrumentedTest.java,7\1\7163696497ec22034b8eca6c76eac9240a2aa5c2
 u
 Eapp/src/test/java/com/project/inuadadafaundation/ExampleUnitTest.java,e\5\e582763af64ba2d908a10e3c58d10d1645bd26e6
-Ä
-Papp/src/main/java/com/project/inuadadafaundation/ui/gallery/GalleryFragment.java,8\9\8989cf8f83976427f8e45278d6d8bd43f30ae87f
-Å
-Qapp/src/main/java/com/project/inuadadafaundation/ui/gallery/GalleryViewModel.java,4\5\45bf46b5356fa4dc7fc7ce4ed008a0a21f605891
-r
-Bapp/src/main/java/com/project/inuadadafaundation/MainActivity.java,b\d\bd46a205be32f27d2149dfff924881c0f9006205
 Å
 Qapp/src/main/java/com/project/inuadadafaundation/Activities/OnboardingScreen.java,9\e\9e568acd3d8e64547ad357de844e443575a7e980
 â
@@ -44,3 +36,5 @@ Gapp/src/main/java/com/project/inuadadafaundation/Activities/SignUp.java,8\4\84
 Tapp/src/main/java/com/project/inuadadafaundation/ui/slideshow/SlideshowFragment.java,4\4\44f2a7044c3b070439d193fb8947552ffbbee468
 Ö
 Uapp/src/main/java/com/project/inuadadafaundation/ui/slideshow/SlideshowViewModel.java,c\8\c883f11f56e1c8aed7d95f80fc31df36cb2b05e8
+~
+Napp/src/main/java/com/project/inuadadafaundation/Adapters/ProgramsAdapter.java,6\2\62b7f94d1aafc5812b7224b77e6423ecd8988f57
