@@ -1,0 +1,10 @@
+
+
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(—¨ØËıÿÿÿÿ
+>
+java:S1604,"(Make this anonymous inner class a lambda(Ö¹™º
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šıÀÓ
+N
+java:S1172"3Remove this unused method parameter "homeFragment".(—¨ØËıÿÿÿÿ
+F
+java:S1659D"$Declare "header" on a separate line.(¾Ó„ıÿÿÿÿ8Ìîñô®0

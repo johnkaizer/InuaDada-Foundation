@@ -1,12 +1,13 @@
-package com.project.inuadadafaundation;
+package com.project.inuadadafaundation.Activities;
 
+import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
+import android.view.MenuItem;
 import android.view.Menu;
 
-import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 
+import androidx.annotation.NonNull;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
@@ -14,6 +15,7 @@ import androidx.navigation.ui.NavigationUI;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.project.inuadadafaundation.R;
 import com.project.inuadadafaundation.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
@@ -47,6 +49,27 @@ public class MainActivity extends AppCompatActivity {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        int id = item.getItemId();
+        if (id == R.id.about_us){
+            Intent intent = new Intent(MainActivity.this, AboutUs.class);
+            startActivity(intent);
+            return true;
+        }
+        else if (id == R.id.about_our_founder){
+            Intent intent = new Intent(MainActivity.this, OurFounder.class);
+            startActivity(intent);
+            return true;
+        }
+        else if (id == R.id.contact_Us){
+            Intent intent = new Intent(MainActivity.this, ContactUs.class);
+            startActivity(intent);
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
     }
 
     @Override

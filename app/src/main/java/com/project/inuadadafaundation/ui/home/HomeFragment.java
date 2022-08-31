@@ -39,6 +39,8 @@ public class HomeFragment extends Fragment {
     ArrayList<ProgramsModel> programsModelList;
     ProgramsAdapter programsAdapter;
 
+    private FragmentHomeBinding binding;
+
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
 
@@ -99,5 +101,10 @@ public class HomeFragment extends Fragment {
         programsRec.setNestedScrollingEnabled(false);
 
         return root;
+    }
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        binding = null;
     }
 }

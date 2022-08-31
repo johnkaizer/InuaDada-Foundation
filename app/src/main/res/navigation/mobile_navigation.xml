@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="com.project.inuadadafaundation.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:name="com.project.inuadadafaundation.ui.Liveblog.SlideshowFragment"
+        android:label="Live Blog"
+        tools:layout="@layout/fragment_live_blog" />
 </navigation>

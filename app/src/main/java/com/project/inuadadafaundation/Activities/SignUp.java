@@ -6,7 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.project.inuadadafaundation.MainActivity;
 import com.project.inuadadafaundation.R;
 
 public class SignUp extends AppCompatActivity {

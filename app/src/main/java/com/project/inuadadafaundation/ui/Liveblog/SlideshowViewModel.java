@@ -1,4 +1,4 @@
-package com.project.inuadadafaundation.ui.slideshow;
+package com.project.inuadadafaundation.ui.Liveblog;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
@@ -10,7 +10,7 @@ public class SlideshowViewModel extends ViewModel {
 
     public SlideshowViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is slideshow fragment");
+        mText.setValue("This is Liveblog fragment");
     }
 
     public LiveData<String> getText() {
