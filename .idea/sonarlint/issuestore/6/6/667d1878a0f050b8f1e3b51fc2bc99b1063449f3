@@ -1,0 +1,8 @@
+
+†
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(ÈİŸëÿÿÿÿÿ8èš¯0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šıÀÓ
+Z
+java:S1172"8Remove this unused method parameter "slideshowFragment".(ÈİŸëÿÿÿÿÿ8úÙìª¯0
+X
+java:S16594"BDeclare "topic" and all following declarations on a separate line.(Ç¼ÉÄ
