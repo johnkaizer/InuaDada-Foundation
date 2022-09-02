@@ -1,8 +1,6 @@
 
 F
 app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
-@
-app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 >
 app/.gitignore,5\1\51e1c5d383dfaa35e0e7e5873a0a99355a86880f
 ;
@@ -48,8 +46,6 @@ Qapp/src/main/java/com/project/inuadadafaundation/ui/gallery/GalleryViewModel.ja
 Papp/src/main/java/com/project/inuadadafaundation/ui/gallery/GalleryFragment.java,8\9\8989cf8f83976427f8e45278d6d8bd43f30ae87f
 x
 Happ/src/main/java/com/project/inuadadafaundation/Activities/AboutUs.java,e\7\e739829d620df333300c245171f878d88f20fe97
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 z
 Japp/src/main/java/com/project/inuadadafaundation/Activities/ContactUs.java,3\7\37678ef0bd22d94c3827776ef5220ac357dfe5fa
 ~

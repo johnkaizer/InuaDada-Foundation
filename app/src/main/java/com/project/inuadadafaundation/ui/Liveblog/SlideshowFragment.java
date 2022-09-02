@@ -39,9 +39,11 @@ public class SlideshowFragment extends Fragment {
         liveRc =root.findViewById(R.id.liveBlog_rv);
         liveBlogModelList =new ArrayList<>();
 
-        liveBlogModelList.add(new LiveBlogModel("Dummy header","10:20 ",R.drawable.jannett,"Dummy text"));
-        liveBlogModelList.add(new LiveBlogModel("Dummy header","10:20 ",R.drawable.jannett,"Dummy text"));
-        liveBlogModelList.add(new LiveBlogModel("Dummy header","10:20 ",R.drawable.jannett,"Dummy text"));
+        liveBlogModelList.add(new LiveBlogModel("A day with Dadas...","10:20 ",R.drawable.jannett,"I hold the firm belief that when everyone is included, everyone wins and this is the only way we can ensure that gender equity and economic empowerment programs continue being prioritized across the social and political spectrum."));
+        liveBlogModelList.add(new LiveBlogModel("Her Excellency First Lady with Dadas","11:24 ",R.drawable.dadasmargaretkenyatta,"A movement that keeps growing because the world keeps believing in us and our story."));
+        liveBlogModelList.add(new LiveBlogModel("Janet with Margaret Kenyatta","12:13 ",R.drawable.janetmargaretkenyatta,"I appreciate the importance of using my digital space not only to inspire people or share some insights into my life’s passions and activities, but also to bring key messaging and campaigns, particularly related to sexual and reproductive health and rights, cyber bullying and child safety, to life."));
+        liveBlogModelList.add(new LiveBlogModel("Cynthia And Janet","20:15 ",R.drawable.janetmargaretkenyatta,"I appreciate the simple or share some insights  into my life’s passions and activities "));
+
 
 
 
