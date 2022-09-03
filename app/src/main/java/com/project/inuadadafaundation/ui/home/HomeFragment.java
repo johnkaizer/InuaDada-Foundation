@@ -1,9 +1,11 @@
 package com.project.inuadadafaundation.ui.home;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -14,6 +16,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewpager.widget.PagerAdapter;
 
+import com.project.inuadadafaundation.AccountActivity;
 import com.project.inuadadafaundation.Adapters.ProgramsAdapter;
 import com.project.inuadadafaundation.Adapters.WhatsNewAdapter;
 import com.project.inuadadafaundation.Models.ProgramsModel;
@@ -27,7 +30,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class HomeFragment extends Fragment {
-
+    ImageView account;
     // WhatsNew
     RecyclerView whatsNewRec;
     ArrayList<WhatsNewModel> whatsNewModelList;
@@ -46,6 +49,15 @@ public class HomeFragment extends Fragment {
 
         ViewBinding binding = FragmentHomeBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
+
+        account =root.findViewById(R.id.imageView4);
+        account.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(),AccountActivity.class);
+                startActivity(intent);
+            }
+        });
 
         /////////////////WhatsNew/////////////////////
 
