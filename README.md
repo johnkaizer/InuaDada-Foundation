@@ -10,15 +10,17 @@ Based on the Foundation above by Janet Mbugua. I have developed an android apppl
 * Junit- `Testing`
 
 # Screenshots
-# Onboarding screens
+### Onboarding screens
 <img src="Images/onboard1.png" width="200" > <img src="Images/onboard2.png" width="200" >
 <img src="Images/onboard3.png" width="200" ><img src="Images/onboard4.png" width="200" >
-# Homescreens
+### Homescreens
 <img src="Images/signin.png" width="200" ><img src="Images/signup.png" width="200" >
 <img src="Images/home1.png" width="200" ><img src="Images/home2.png" width="200" >
 <img src="Images/drawer.png" width="200" ><img src="Images/menu.png" width="200" >
+### Screens
 <img src="Images/liveblog.png" width="200" ><img src="Images/gallery.png" width="200" >
-<img src="Images/contactus.png" width="200" >
+<img src="Images/contactus.png" width="200" ><img src="Images/new.png" width="200" >
+<img src="Images/program.png" width="200" ><img src="Images/account.png" width="200" >
 
 ## Prerequisites
 - Basic java, Android Studio and Git knowledge, including an installed version of Git.
