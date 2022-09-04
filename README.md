@@ -13,7 +13,7 @@ Based on the Foundation above by Janet Mbugua. I have developed an android apppl
 ### Onboarding screens
 <img src="Images/onboard1.png" width="200" > <img src="Images/onboard2.png" width="200" >
 <img src="Images/onboard3.png" width="200" ><img src="Images/onboard4.png" width="200" >
-### Homescreens
+### Homescreens and SignUp n Sign In
 <img src="Images/signin.png" width="200" ><img src="Images/signup.png" width="200" >
 <img src="Images/home1.png" width="200" ><img src="Images/home2.png" width="200" >
 <img src="Images/drawer.png" width="200" ><img src="Images/menu.png" width="200" >
@@ -22,7 +22,7 @@ Based on the Foundation above by Janet Mbugua. I have developed an android apppl
 <img src="Images/contactus.png" width="200" ><img src="Images/new.png" width="200" >
 <img src="Images/program.png" width="200" ><img src="Images/account.png" width="200" >
 
-## Prerequisites
+## Pre-requisites
 - Basic java, Android Studio and Git knowledge, including an installed version of Git.
 - Your application must run on the OpenJDK version 11 onwards.
 
