@@ -46,9 +46,9 @@ Japp/src/main/java/com/project/inuadadafaundation/Models/LiveBlogModel.java,b\5
 Mapp/src/main/java/com/project/inuadadafaundation/Activities/MainActivity.java,7\f\7fc16e8f71af33955e090924070aec0fe62b5794
 {
 Kapp/src/main/java/com/project/inuadadafaundation/Activities/OurFounder.java,b\2\b29bfeb55dac00d7dba901420897cf9948dbc54e
+„
+Tapp/src/main/java/com/project/inuadadafaundation/ui/Liveblog/SlideshowViewModel.java,1\7\179cceb58dfcfb730389b10352904d816f5a3099
 w
 Gapp/src/main/java/com/project/inuadadafaundation/Activities/SignIn.java,2\b\2bc37fe2c58039a730313be74eca306c616db06d
 w
 Gapp/src/main/java/com/project/inuadadafaundation/Activities/SignUp.java,8\4\845e6e4f74c0a20c637304d34651836aa80630ca
-„
-Tapp/src/main/java/com/project/inuadadafaundation/ui/Liveblog/SlideshowViewModel.java,1\7\179cceb58dfcfb730389b10352904d816f5a3099
