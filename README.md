@@ -8,6 +8,7 @@ Based on the Foundation above by Janet Mbugua. I have developed an android apppl
 * Xmls- `Frontend.`
 * Gradle- `(For Project building).`
 * Junit- `Testing`
+* Firebase- `Autentication of users`
 
 # Screenshots
 ### Onboarding screens
