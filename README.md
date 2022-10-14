@@ -17,10 +17,8 @@ Based on the Foundation above by Janet Mbugua. I have developed an android apppl
 ### Homescreens and SignUp n Sign In
 <img src="Images/signin.png" width="200" ><img src="Images/signup.png" width="200" >
 <img src="Images/home1.png" width="200" ><img src="Images/home2.png" width="200" >
-<img src="Images/drawer.png" width="200" ><img src="Images/menu.png" width="200" >
 ### Screens
 <img src="Images/liveblog.png" width="200" ><img src="Images/gallery.png" width="200" >
-<img src="Images/contactus.png" width="200" ><img src="Images/new.png" width="200" >
 <img src="Images/program.png" width="200" ><img src="Images/account.png" width="200" >
 
 ## Pre-requisites
